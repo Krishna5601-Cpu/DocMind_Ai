@@ -12,7 +12,7 @@ The project combines Information Retrieval and Generative AI to create a smarter
 
 ### 💬 Chat Interface
 
-![Chat Demo](assets\readme\chat-demo.png)
+![Chat Demo](./assets/readme/chat-demo.png)
 
 ---
 
